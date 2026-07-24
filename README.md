@@ -66,8 +66,9 @@ uvicorn main:app --host 127.0.0.1 --port 8000 --reload
 
 ## API Usage
 
-Once the server is running, you can access the interactive documentation at:
-http://127.0.0.1:8000/docs
+Once the server is running locally, you can access the interactive documentation at:
+- Local: http://127.0.0.1:8000/docs
+- Colab (via Localtunnel): Use your generated public URL followed by /docs (e.g., https://xxxx.loca.lt/docs)
 
 ### Endpoint: POST /api/chat
 
@@ -95,8 +96,3 @@ http://127.0.0.1:8000/docs
 ## License
 
 This project is proprietary and built for sharkbay.shop.
-
-```
-
-```
-```

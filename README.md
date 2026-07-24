@@ -13,16 +13,12 @@ Official RAG-powered AI customer support and shopping assistant backend for shar
 ---
 
 ## Project Structure
-
+```text
 sharkbay-ai-support/
 ├── sharkbay_knowledge_base.md   # Official enterprise knowledge base / policy manual
 ├── main.py                      # FastAPI application and RAG pipeline logic
 ├── requirements.txt             # Python dependencies
 └── README.md                    # Project documentation
-
-
-
----
 
 ## Getting Started & Installation
 

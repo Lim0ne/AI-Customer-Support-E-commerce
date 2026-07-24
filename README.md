@@ -1,4 +1,4 @@
-# Sharkbay AI Customer Support System
+# Sharkbay AI Customer Support Chatbot
 
 Official RAG-powered AI customer support and shopping assistant backend for sharkbay.shop, Malta's premier localized e-commerce platform.
 

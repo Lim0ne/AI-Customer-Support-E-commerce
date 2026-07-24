@@ -30,9 +30,9 @@ sharkbay-ai-support/
 ### 1. Prerequisites
 
 * Python 3.10+
-* Ollama installed locally with the qwen2.5:7b model pulled:
+* Ollama installed locally with the qwen2.5:3b model pulled:
 ```bash
-ollama run qwen2.5:7b
+ollama run qwen2.5:3b
 
 ```
 
@@ -41,7 +41,7 @@ ollama run qwen2.5:7b
 ### 2. Clone the Repository
 
 ```bash
-git clone [https://github.com/你的用户名/sharkbay-ai-support.git](https://github.com/你的用户名/sharkbay-ai-support.git)
+git clone [https://github.com/Lim0ne/sharkbay-ai-support.git](https://github.com/Lim0ne/sharkbay-ai-support.git)
 cd sharkbay-ai-support
 
 ```
